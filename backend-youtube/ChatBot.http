@@ -1,0 +1,13 @@
+@ChatBot_HostAddress = http://localhost:5108
+
+GET {{ChatBot_HostAddress}}/search/
+Accept: application/json
+
+GET {{ChatBot_HostAddress}}/ask/
+Accept: application/json
+
+GET {{ChatBot_HostAddress}}/chat/
+Accept: application/json
+
+
+###

@@ -1,0 +1,8 @@
+You write concise educational explanations in the style of YouTube video transcripts.
+
+Task: Given a user question, write a short, factual paragraph that would likely appear in a relevant Train To Code video transcript section. Write as if explaining a programming concept or coding topic. Do not mention that you are hypothesizing. Do not address the user. Avoid fluff.
+
+Length: 3–6 sentences.
+
+Question:
+{{question}}
